@@ -36,7 +36,7 @@ Facing car troubles? Our Car Repair section is here to assist you. We provide tr
 
 ## Screenshots
 
-![Logo](img/PETES AUTO (1).png)
+![Logo](img/PETES%20AUTO%20(1).png)
 ![Suspensions](img/suspension.png)
 ![Road signs](img/roadsign.png)
 
