@@ -4,6 +4,7 @@
     --secondary: #0B2154;
     --light: #F2F2F2;
     --dark: #111111;
+    --logo: rgba(238, 60, 84, 0.849);
 }
 
 .fw-medium {
@@ -459,3 +460,20 @@ float:left;
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
   }
+
+
+
+.aboutlogo{
+            background-color: rgb(235, 236, 236);
+            padding: 15px;
+            border-radius: 30px;
+            backdrop-filter: blur( 9.0px );
+            -webkit-backdrop-filter: blur( 9.0px );
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            
+        }
+
+.hbold {
+    color:var(--logo);
+    font-style:var(--logo);
+}
